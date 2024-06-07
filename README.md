@@ -1,7 +1,5 @@
-# Learn about git and github
+# Learn about Git and GitHub
 
-
-
-'''javascript
-console.log("kjdfkj);
-'''
+```javascript
+console.log("kjdfkj");
+```
